@@ -1,0 +1,570 @@
+CRITICAL - 2024-02-20 16:19:03 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:19:03 --> ErrorException: Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\Helpers\number_helper.php:137
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\Helpers\number_helper.php(56): format_number(4.0, 2, NULL, Array)
+#1 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\Debug\BaseExceptionHandler.php(152): number_to_size(4.0, 2)
+#2 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\app\Views\errors\html\error_exception.php(384): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(4194304)
+#3 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\Debug\BaseExceptionHandler.php(258): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\Debug\BaseExceptionHandler.php(261): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\Debug\ExceptionHandler.php(112): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\Exceptions\FrameworkException), 500, 'C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\Debug\Exceptions.php(156): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\Helpers\number_helper.php on line 137.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-02-20 16:21:43 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:21:43 --> ErrorException: Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\Helpers\number_helper.php:137
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\Helpers\number_helper.php(56): format_number(4.0, 2, NULL, Array)
+#1 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\Debug\BaseExceptionHandler.php(152): number_to_size(4.0, 2)
+#2 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\app\Views\errors\html\error_exception.php(384): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(4194304)
+#3 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\Debug\BaseExceptionHandler.php(258): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\Debug\BaseExceptionHandler.php(261): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\Debug\ExceptionHandler.php(112): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\Exceptions\FrameworkException), 500, 'C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\Debug\Exceptions.php(156): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\codeigniter4-framework-v4.4.5-0-gf5844cb\codeigniter4-framework-f5844cb\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\Helpers\number_helper.php on line 137.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-02-20 16:05:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "HolaMndo.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('HolaMndo.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('HolaMndo', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('HolaMndo')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 16:06:09 --> ErrorException: Undefined variable $title
+in APPPATH\Views\Header.php on line 16.
+ 1 APPPATH\Views\Header.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Header', [], true)
+ 5 APPPATH\Controllers\Pages.php(9): view('Header')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 16:11:43 --> ErrorException: Undefined variable $title
+in APPPATH\Views\Header.php on line 16.
+ 1 APPPATH\Views\Header.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Header', [], true)
+ 5 APPPATH\Controllers\Pages.php(10): view('Header')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 16:11:56 --> ErrorException: Undefined variable $title
+in APPPATH\Views\Header.php on line 16.
+ 1 APPPATH\Views\Header.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Header', [], true)
+ 5 APPPATH\Controllers\Pages.php(10): view('Header')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 16:14:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Header.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Header.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Header', [], true)
+ 3 APPPATH\Controllers\Pages.php(10): view('Header')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 16:14:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Header.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Header.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Header', [], true)
+ 3 APPPATH\Controllers\Pages.php(10): view('Header')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 16:14:51 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Header.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Header.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Header', [], true)
+ 3 APPPATH\Controllers\Pages.php(10): view('Header')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 16:14:51 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Header.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Header.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Header', [], true)
+ 3 APPPATH\Controllers\Pages.php(10): view('Header')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 16:14:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Header.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Header.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Header', [], true)
+ 3 APPPATH\Controllers\Pages.php(10): view('Header')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 16:15:17 --> ErrorException: Undefined variable $title
+in APPPATH\Views\Header.php on line 16.
+ 1 APPPATH\Views\Header.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Header', [], true)
+ 5 APPPATH\Controllers\Pages.php(10): view('Header')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 16:15:57 --> ErrorException: Undefined variable $title
+in APPPATH\Views\Header.php on line 16.
+ 1 APPPATH\Views\Header.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Header', [], true)
+ 5 APPPATH\Controllers\Pages.php(10): view('Header')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 16:15:58 --> ErrorException: Undefined variable $title
+in APPPATH\Views\Header.php on line 16.
+ 1 APPPATH\Views\Header.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Header', [], true)
+ 5 APPPATH\Controllers\Pages.php(10): view('Header')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 16:15:59 --> ErrorException: Undefined variable $title
+in APPPATH\Views\Header.php on line 16.
+ 1 APPPATH\Views\Header.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Header', [], true)
+ 5 APPPATH\Controllers\Pages.php(10): view('Header')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 16:15:59 --> ErrorException: Undefined variable $title
+in APPPATH\Views\Header.php on line 16.
+ 1 APPPATH\Views\Header.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Header', [], true)
+ 5 APPPATH\Controllers\Pages.php(10): view('Header')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 16:19:26 --> TypeError: view(): Argument #2 ($data) must be of type array, string given, called in C:\xampp\htdocs\CrudUsuarios\CodeIgnaiter\app\Controllers\Pages.php on line 10
+in SYSTEMPATH\Common.php on line 1166.
+ 1 APPPATH\Controllers\Pages.php(10): view('Header', 'Footer')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 16:19:36 --> TypeError: Unsupported operand types: string + string
+in APPPATH\Controllers\Pages.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 16:20:35 --> ErrorException: Undefined variable $title
+in APPPATH\Views\Header.php on line 16.
+ 1 APPPATH\Views\Header.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Header', [], true)
+ 5 APPPATH\Controllers\Pages.php(18): view('Header', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->view()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:09 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:10 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:53 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:53 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:54 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:54 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:54 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:54 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:54 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:55 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:55 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:55 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:55 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:55 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:56 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:56 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:56 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:56 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:56 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:57 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:57 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:57 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:57 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:57 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:57 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:57 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:58 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:58 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:43:58 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:45:03 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 18:49:21 --> Error: Call to undefined method CodeIgniter\Database\Database::connect()
+in APPPATH\Controllers\Usuarios.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Usuarios->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 19:15:17 --> Error: Class "BaseConstroller" not found
+in APPPATH\Controllers\Usuarios.php on line 4.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(309): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Controllers\\Usuarios.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 5 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Usuarios', true)
+ 6 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 19:21:05 --> Error: Class "App\Controllers\BaseConstroller" not found
+in APPPATH\Controllers\Usuarios.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(309): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Controllers\\Usuarios.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 5 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Usuarios', true)
+ 6 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 19:44:51 --> Error: Class "App\Controllers\BaseConstroller" not found
+in APPPATH\Controllers\Usuarios.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(309): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Controllers\\Usuarios.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 5 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Usuarios', true)
+ 6 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 19:45:01 --> Error: Call to undefined method CodeIgniter\Database\MySQLi\Connection::findAll()
+in APPPATH\Models\UserModel.php on line 15.
+ 1 APPPATH\Controllers\Usuarios.php(10): App\Models\UserModel->listarUsuario()
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 19:53:15 --> ErrorException: Undefined variable $usuarios
+in APPPATH\Views\usuario.php on line 20.
+ 1 APPPATH\Views\usuario.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuarios', 'C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\usuario.php', 20)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\usuario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('usuario', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(14): view('usuario')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuarios->view()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 19:56:38 --> ErrorException: Undefined variable $usuarios
+in APPPATH\Views\usuario.php on line 20.
+ 1 APPPATH\Views\usuario.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuarios', 'C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\usuario.php', 20)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\usuario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('usuario', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(15): view('usuario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuarios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 20:02:26 --> ErrorException: Attempt to read property "id" on array
+in APPPATH\Views\usuario.php on line 25.
+ 1 APPPATH\Views\usuario.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on array', 'C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\usuario.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\usuario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('usuario', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(15): view('usuario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuarios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 20:02:34 --> ErrorException: Attempt to read property "nombre" on array
+in APPPATH\Views\usuario.php on line 26.
+ 1 APPPATH\Views\usuario.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nombre" on array', 'C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\usuario.php', 26)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\usuario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('usuario', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(15): view('usuario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuarios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 20:05:55 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\usuario.php on line 22.
+ 1 APPPATH\Views\usuario.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\usuario.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Views\\usuario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('usuario', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(15): view('usuario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuarios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 21:49:03 --> ParseError: syntax error, unexpected token "}"
+in APPPATH\Controllers\Usuarios.php on line 26.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 22:27:40 --> ParseError: syntax error, unexpected token "}", expecting "," or ";"
+in APPPATH\Controllers\Usuarios.php on line 30.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 22:27:46 --> ParseError: syntax error, unexpected token "}", expecting "," or ";"
+in APPPATH\Controllers\Usuarios.php on line 30.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 22:28:14 --> ParseError: syntax error, unexpected token "}", expecting "," or ";"
+in APPPATH\Controllers\Usuarios.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 22:28:57 --> ErrorException: Array to string conversion
+in APPPATH\Controllers\Usuarios.php on line 23.
+ 1 APPPATH\Controllers\Usuarios.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\CrudUsuarios\\CodeIgnaiter\\app\\Controllers\\Usuarios.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuarios->crear()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 22:29:18 --> TypeError: CodeIgniter\HTTP\Request::fetchGlobal(): Argument #3 ($filter) must be of type ?int, string given, called in C:\xampp\htdocs\CrudUsuarios\CodeIgnaiter\system\HTTP\IncomingRequest.php on line 765
+in SYSTEMPATH\HTTP\RequestTrait.php on line 249.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(765): CodeIgniter\HTTP\Request->fetchGlobal('post', 'nombre', 'apellido', null)
+ 2 APPPATH\Controllers\Usuarios.php(23): CodeIgniter\HTTP\IncomingRequest->getPost('nombre', 'apellido')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuarios->crear()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 22:30:05 --> TypeError: Unsupported operand types: string + string
+in APPPATH\Controllers\Usuarios.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuarios->crear()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 22:32:07 --> Error: Call to undefined method App\Controllers\Usuarios::getPost()
+in APPPATH\Controllers\Usuarios.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuarios->crear()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-20 22:56:53 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\UserModel.php(24): CodeIgniter\Model->update([...])
+ 5 APPPATH\Controllers\Usuarios.php(50): App\Models\UserModel->actualizarUsuario([...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuarios->actualizar()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,715 @@
+INFO - 2024-03-18 12:00:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 12:00:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 12:14:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:36:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:36:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 13:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 13:47:08 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 158.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 14:35:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 16:09:02 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 16:09:40 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 16:17:09 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 16:17:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 16:17:44 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 16:24:28 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 17:01:47 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 17:01:49 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 17:01:49 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 17:01:49 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 17:02:06 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 17:02:25 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 17:02:28 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 17:26:37 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 17:26:46 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 17:30:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 17:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 17:42:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 17:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 17:42:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 17:42:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 17:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 17:44:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 17:50:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 17:51:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 17:51:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 17:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:30:27 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 19:30:40 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 19:33:36 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 19:35:23 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 19:36:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:36:36 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 19:39:10 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:39:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:40:03 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:40:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:40:24 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:40:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:40:55 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:40:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:41:17 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 19:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:41:53 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 19:42:40 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:42:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:43:23 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:43:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:43:31 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:43:51 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 19:43:55 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 19:44:00 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 19:45:15 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:45:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:45:32 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:45:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:47:52 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:48:19 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:48:59 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:48:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:49:42 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:49:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:51:45 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:52:07 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:52:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 19:52:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:52:29 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:52:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 19:52:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:53:03 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 19:53:23 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:53:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:53:34 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:54:05 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 19:54:22 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:54:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 19:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:55:18 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 19:55:46 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 19:55:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 19:58:07 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 20:02:58 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 20:03:32 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:03:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:04:26 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:04:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:07:29 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:09:44 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:09:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:10:01 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:10:09 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:10:28 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:18:28 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:20:10 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:20:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:20:52 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:20:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:24:24 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:24:48 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:24:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:24:56 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:25:16 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 20:27:35 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:29:08 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:29:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:29:43 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:30:26 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:30:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:31:09 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:31:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:38:00 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:38:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:40:34 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:40:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:40:57 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:40:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:41:21 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:41:40 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:42:06 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:42:14 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:46:20 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 20:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 20:48:22 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 20:50:04 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 20:50:58 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 20:51:26 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 20:53:14 --> ArgumentCountError: Too few arguments to function App\Services\UserService::validateToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/app/Controllers/Usuarios.php on line 160 and exactly 1 expected
+in APPPATH/Services/UserService.php on line 54.
+ 1 APPPATH/Controllers/Usuarios.php(160): App\Services\UserService->validateToken()
+ 2 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 21:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 21:05:33 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 21:11:30 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 21:23:38 --> ErrorException: Undefined variable: token
+in APPPATH/Controllers/Usuarios.php on line 160.
+ 1 APPPATH/Controllers/Usuarios.php(160): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 21:24:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 21:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 21:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 21:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 21:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 21:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 21:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 21:26:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 21:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 21:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 21:28:26 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 21:28:32 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 21:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 21:37:21 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 21:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 21:37:33 --> ArgumentCountError: Too few arguments to function App\Controllers\Usuarios::validarToken(), 0 passed in /var/www/html/UsersCrud/CodeIgnaiter/system/CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH/Controllers/Usuarios.php on line 159.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 21:50:19 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+in SYSTEMPATH/HTTP/IncomingRequest.php on line 588.
+ 1 SYSTEMPATH/HTTP/IncomingRequest.php(588): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 SYSTEMPATH/HTTP/IncomingRequest.php(608): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 APPPATH/Controllers/Usuarios.php(161): CodeIgniter\HTTP\IncomingRequest->getJsonVar()
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 21:50:50 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+in SYSTEMPATH/HTTP/IncomingRequest.php on line 588.
+ 1 SYSTEMPATH/HTTP/IncomingRequest.php(588): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 SYSTEMPATH/HTTP/IncomingRequest.php(608): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 APPPATH/Controllers/Usuarios.php(161): CodeIgniter\HTTP\IncomingRequest->getJsonVar()
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 21:50:55 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+in SYSTEMPATH/HTTP/IncomingRequest.php on line 588.
+ 1 SYSTEMPATH/HTTP/IncomingRequest.php(588): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 SYSTEMPATH/HTTP/IncomingRequest.php(608): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 APPPATH/Controllers/Usuarios.php(161): CodeIgniter\HTTP\IncomingRequest->getJsonVar()
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 21:52:08 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+in SYSTEMPATH/HTTP/IncomingRequest.php on line 588.
+ 1 SYSTEMPATH/HTTP/IncomingRequest.php(588): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 SYSTEMPATH/HTTP/IncomingRequest.php(608): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 APPPATH/Controllers/Usuarios.php(161): CodeIgniter\HTTP\IncomingRequest->getJsonVar()
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 21:52:15 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+in SYSTEMPATH/HTTP/IncomingRequest.php on line 588.
+ 1 SYSTEMPATH/HTTP/IncomingRequest.php(588): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 SYSTEMPATH/HTTP/IncomingRequest.php(608): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 APPPATH/Controllers/Usuarios.php(161): CodeIgniter\HTTP\IncomingRequest->getJsonVar()
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-18 21:53:01 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+in SYSTEMPATH/HTTP/IncomingRequest.php on line 588.
+ 1 SYSTEMPATH/HTTP/IncomingRequest.php(588): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 SYSTEMPATH/HTTP/IncomingRequest.php(608): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 APPPATH/Controllers/Usuarios.php(161): CodeIgniter\HTTP\IncomingRequest->getJsonVar()
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 21:54:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 21:57:38 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+in SYSTEMPATH/HTTP/IncomingRequest.php on line 588.
+ 1 SYSTEMPATH/HTTP/IncomingRequest.php(588): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 SYSTEMPATH/HTTP/IncomingRequest.php(608): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 APPPATH/Controllers/Usuarios.php(161): CodeIgniter\HTTP\IncomingRequest->getJsonVar()
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 22:10:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 22:12:40 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+in SYSTEMPATH/HTTP/IncomingRequest.php on line 588.
+ 1 SYSTEMPATH/HTTP/IncomingRequest.php(588): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 SYSTEMPATH/HTTP/IncomingRequest.php(608): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 APPPATH/Controllers/Usuarios.php(161): CodeIgniter\HTTP\IncomingRequest->getJsonVar()
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuarios->validarToken()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(83): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-18 22:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
